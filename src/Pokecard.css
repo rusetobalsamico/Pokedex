@@ -31,7 +31,6 @@
 
 .Pokecard img {
     transition: all .1s;
-    cursor: pointer;
 }
 
 .Pokecard img:hover {
